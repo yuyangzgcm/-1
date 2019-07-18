@@ -1,4 +1,4 @@
-# hello-world
-#change
-this is my first trial in github
-this is the first move of editing hahaha
+#小学期作业 
+#1.小游戏:一个简陋版的人机五子棋 （电脑只会堵人下的棋 实在做不出来很智能的）
+#2.爬虫1 老师给的爬虫多个时间
+#3.爬虫2 爬取新浪辟谣网站的前十条热度高的新闻
